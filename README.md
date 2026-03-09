@@ -29,4 +29,4 @@ This project is designed to be deployed directly from GitHub to Vercel.
 4.  **Deploy:** Vercel will automatically detect the Next.js configuration and build your live site.
 
 ---
-**Developed by Anushka** *Student at Vellore Institute of Technology | Prompt Engineering Intern*
+**Developed by Anushka** *Student at Vellore Institute of Technology*
